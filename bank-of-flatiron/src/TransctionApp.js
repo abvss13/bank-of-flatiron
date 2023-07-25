@@ -52,10 +52,10 @@ const TransactionApp = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Get the form data (assuming you have input elements with the appropriate 'name' attribute)
+    // Get the form data 
     const description = e.target.elements.description.value;
     const amount = e.target.elements.amount.value;
-    // Generate a new transaction object (replace the 'id' with a unique value, e.g., using a library like uuid)
+    // Generate a new transaction object 
     const newTransaction = {
       id: transactions.length + 1,
       description,
