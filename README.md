@@ -2,8 +2,11 @@
 This application allows user to view track and add new transactions.
 ## Author Details 
 Author: Abdullahi Abass
+
 Gmail: abdulabass1738@gmail.com
+
 Telephone : +254798491946
+
 
 ## Instruction
 1. Make sure you have Node.js
